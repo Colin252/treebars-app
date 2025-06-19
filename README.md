@@ -70,7 +70,7 @@ Copiar
 Editar
 
 
-> Este acceso permite explorar todas las funcionalidades: login seguro, creación de rutinas, calculadora, planificador semanal, visualizador anatómico, sección de dietas, y más, desde el dashboard principal.
+> This access allows you to explore all functionalities: secure login, routine creation, calculator, weekly planner, anatomical viewer, diet section, and more — all from the main dashboard.
 
 ### Developed by:
 **Helton Emerson Quiroz López**  
