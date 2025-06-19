@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e985ceb5-f7d2-4004-9592-fde51e001fc4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/reportWebVitals.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2y45pbw0HL7ByIF6XfgWchDRG0w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.FitflowBackendApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.FitflowBackendApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/AMD/OneDrive/Desktop/Tree_Bars&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AMD\OneDrive\Desktop\fitflow-backend\frontend\public" />
+      <recent name="C:\Users\AMD\OneDrive\Desktop\fitflow-backend\frontend-react\src" />
+      <recent name="C:\Users\AMD\OneDrive\Desktop\fitflow-backend\frontend\src\components" />
+      <recent name="C:\Users\AMD\OneDrive\Desktop\fitflow-backend\frontend\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FitflowBackendApplication (1)">
+    <configuration name="FitflowBackendApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="fitflow-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fitflow.FitflowBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FitflowBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="fitflow-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fitflow.fitflowbackend.FitflowBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26574.91" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26574.91" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Physical" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e985ceb5-f7d2-4004-9592-fde51e001fc4" name="Changes" comment="" />
+      <created>1749081188982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749081188982</updated>
+      <workItem from="1749081190092" duration="1416000" />
+      <workItem from="1749082661580" duration="7876000" />
+      <workItem from="1749090594552" duration="2486000" />
+      <workItem from="1749269653603" duration="10342000" />
+      <workItem from="1749280367539" duration="54000" />
+      <workItem from="1749356441401" duration="8947000" />
+      <workItem from="1749385275006" duration="600000" />
+      <workItem from="1749386262745" duration="4000" />
+      <workItem from="1749428187061" duration="477000" />
+      <workItem from="1749429987963" duration="12559000" />
+      <workItem from="1749447021482" duration="2951000" />
+      <workItem from="1749479396420" duration="1487000" />
+      <workItem from="1749482419527" duration="21580000" />
+      <workItem from="1749590023977" duration="38000" />
+      <workItem from="1749608653556" duration="2594000" />
+      <workItem from="1749672623722" duration="22764000" />
+      <workItem from="1749768927846" duration="3385000" />
+      <workItem from="1749777649102" duration="10308000" />
+      <workItem from="1749792095591" duration="641000" />
+      <workItem from="1749827532011" duration="4200000" />
+      <workItem from="1749831746913" duration="1777000" />
+      <workItem from="1749833542774" duration="43000" />
+      <workItem from="1749833593041" duration="197000" />
+      <workItem from="1749833799979" duration="535000" />
+      <workItem from="1749834347908" duration="1236000" />
+      <workItem from="1749835596501" duration="649000" />
+      <workItem from="1749875090746" duration="6749000" />
+      <workItem from="1749882982511" duration="16000" />
+      <workItem from="1749909715050" duration="10610000" />
+      <workItem from="1749991954770" duration="16992000" />
+      <workItem from="1750018412170" duration="7781000" />
+      <workItem from="1750028979008" duration="2135000" />
+      <workItem from="1750043060505" duration="3660000" />
+      <workItem from="1750192084996" duration="6790000" />
+      <workItem from="1750206288326" duration="438000" />
+      <workItem from="1750209670304" duration="3060000" />
+      <workItem from="1750215926963" duration="625000" />
+      <workItem from="1750278183537" duration="17996000" />
+      <workItem from="1750303334636" duration="407000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
