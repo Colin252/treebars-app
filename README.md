@@ -58,6 +58,19 @@ https://github.com/Colin252/treebars-app
 Feel free to clone and run this project locally to explore its full stack implementation.
 
 ---
+## 🔐 Acceso de Prueba para Reclutadores
+
+Puedes ingresar a la aplicación TreeBars con el siguiente usuario demo:
+
+📧 Email: helton@email.com
+🔑 Contraseña: 123456
+
+markdown
+Copiar
+Editar
+
+
+> Este acceso permite explorar todas las funcionalidades: login seguro, creación de rutinas, calculadora, planificador semanal, visualizador anatómico, sección de dietas, y más, desde el dashboard principal.
 
 ### Developed by:
 **Helton Emerson Quiroz López**  
