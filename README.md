@@ -58,12 +58,12 @@ https://github.com/Colin252/treebars-app
 Feel free to clone and run this project locally to explore its full stack implementation.
 
 ---
-## 🔐 Acceso de Prueba para Reclutadores
-
-Puedes ingresar a la aplicación TreeBars con el siguiente usuario demo:
+🔐 Test Access for Recruiters
+You can log in to the TreeBars application using the following demo credentials:
 
 📧 Email: helton@email.com
-🔑 Contraseña: 123456
+🔑 Password: 123456
+
 
 markdown
 Copiar
